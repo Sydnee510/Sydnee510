@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sydnee_sampson" target="blank"><img src="https://img.shields.io/twitter/follow/sydnee_sampson?logo=twitter&style=for-the-badge" alt="sydnee_sampson" /></a> </p>
 
-- View My Portfolio: [Personal Website](https://sydneesampson.com/)
-- Book me to speak: [Speaker Site](https://sydneesampsonspeak.com/)
-- 🔭 I’m currently working on [Ship Tech Prints](https://shiptechprints.com/)
+- View My Portfolio: [Personal Website](https://sydneesynergist.com/)
+- Book me to speak: [Speaker Site](https://sydneesynergist.com/speaking)
+- 🔭 I’m currently working on building Agentic AI Systems
 
 - 🌱 I’m currently learning **ruby on rails**
 
