@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sydnee510" alt="sydnee510" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sydnee_sampson" target="blank"><img src="https://img.shields.io/twitter/follow/sydnee_sampson?logo=twitter&style=for-the-badge" alt="sydnee_sampson" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sydneesynergist" target="blank"><img src="https://img.shields.io/twitter/follow/sydnee_sampson?logo=twitter&style=for-the-badge" alt="sydnee_sampson" /></a> </p>
 
 - View My Portfolio: [Personal Website](https://sydneesynergist.com/)
 - Book me to speak: [Speaker Site](https://sydneesynergist.com/speaking)
